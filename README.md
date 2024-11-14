@@ -64,6 +64,12 @@ Tada Paprašiau pagalbos iš kursiokių. Buvo nuspręsta naudoti linux. Pagal š
 ![image](https://github.com/user-attachments/assets/baa99640-338e-4782-a1ba-dbb9b0cca47f)
 Tada naudojausi kursiokės [readme failu](https://github.com/paulynaa/Blockchain-Papildoma/tree/3papildoma?tab=readme-ov-file) ir suvedžiau reikalingas komandas į terminalą. Tačiau gaunu tokią klaidą:
 ![image](https://github.com/user-attachments/assets/04d95ffa-620c-4f36-9844-ab048ae6ef49)
+Po daug įvairių bandymų pavyko.
+Sukūriau failą su ```nano merkle.cpp```
+![image](https://github.com/user-attachments/assets/6bea7c74-fd88-4907-8923-23b564c25893)
+Tačiau, kai norėjau paleisti kodą gavau error
+![image](https://github.com/user-attachments/assets/21fa3d1f-5add-4b5e-af4e-32a15e7e9bc1)
+
 
 
 
