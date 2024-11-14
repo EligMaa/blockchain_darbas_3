@@ -57,7 +57,7 @@ int main()
 }
 ```
 Bibliotekos neranda, todėl einame į ```Project / Properties / C/C++ / General / Additional Include Directories``` čia parenkame kelią į ```source\repos\libbitcoin-system\include\bitcoin```. <br>
-Pačiame kode tenka pakeisti ```#include <bitcoin/bitcoin.hpp>``` į ```#include <bitcoin/system.hpp>```, kadangi ```bitcoin.hpp``` nėra.
+Pačiame kode tenka pakeisti ```#include <bitcoin/bitcoin.hpp>``` į ```#include <bitcoin/system.hpp>```, kadangi ```bitcoin.hpp``` nėra. Dėja, bibliotekos neranda.
 
 
 
