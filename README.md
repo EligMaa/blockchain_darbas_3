@@ -57,7 +57,15 @@ int main()
 }
 ```
 Bibliotekos neranda, todėl einame į ```Project / Properties / C/C++ / General / Additional Include Directories``` čia parenkame kelią į ```source\repos\libbitcoin-system\include\bitcoin```. <br>
-Pačiame kode tenka pakeisti ```#include <bitcoin/bitcoin.hpp>``` į ```#include <bitcoin/system.hpp>```, kadangi ```bitcoin.hpp``` nėra. Dėja, bibliotekos neranda.
+Pačiame kode tenka pakeisti ```#include <bitcoin/bitcoin.hpp>``` į ```#include <bitcoin/system.hpp>```, kadangi ```bitcoin.hpp``` nėra. Dėja, bibliotekos nerado.
+'
+<br>
+Tada Paprašiau pagalbos iš kursiokių. Buvo nuspręsta naudoti linux. Pagal šią [nuorodą](https://learn.microsoft.com/en-us/windows/wsl/install) galima tai padaryti. Į cmd įrašiau ```wsl --install``` ir perkroviau kompiuterį. Perkrovus, iš karto atsidaro ubuntu. Tada yra paprašoma susikurti prisijungimą.
+![image](https://github.com/user-attachments/assets/baa99640-338e-4782-a1ba-dbb9b0cca47f)
+Tada naudojausi kursiokės [readme failu](https://github.com/paulynaa/Blockchain-Papildoma/tree/3papildoma?tab=readme-ov-file) ir suvedžiau reikalingas komandas į terminalą. Tačiau gaunu tokią klaidą:
+![image](https://github.com/user-attachments/assets/04d95ffa-620c-4f36-9844-ab048ae6ef49)
+
+
 
 
 
